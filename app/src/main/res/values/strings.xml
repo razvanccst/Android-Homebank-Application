@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeBankApplication</string>
+    <string name="wrong_password">Incorrect password, please try again.</string>
+    <string name="wrong_user">Username does not exist, please create an account.</string>
+</resources>
